@@ -9,3 +9,5 @@ mul $t1,$s1,$s3
 sub $t0,$t0,$t1
 add $t0,$t0,$s2
 add $s4,$t0,$zero #result in $s4
+jr $ra
+.end main
