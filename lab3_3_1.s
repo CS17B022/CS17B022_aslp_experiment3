@@ -1,6 +1,5 @@
 main:
 li $t0,1
-li $t1,2
 li $s0,4 	#a
 li $s1,8	#b
 
