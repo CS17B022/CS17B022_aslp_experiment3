@@ -1,6 +1,6 @@
 main:
 li $t0,1
-li $s0,4 	#a
+li $s0,4 	#a #final result in $s0
 li $s1,8	#b
 
 while:
