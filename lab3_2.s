@@ -1,5 +1,5 @@
 main: 
-li $s0,2  #a of the equation a.x^2 + b.x + c
+li $s0,2  #a of the equation a.x^2 - b.x + c
 li $s1,3  #b
 li $s2,4  #c
 li $s3,5  #x
