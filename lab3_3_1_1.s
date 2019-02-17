@@ -11,3 +11,5 @@ srlv $s1,$s1,$t1 #shift 'b' right 3 times to make it 1 from 8
 j while
 
 Exit:
+jr $ra
+.end main
